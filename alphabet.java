@@ -16,3 +16,4 @@ public class alphabet {
 		}
 }
 }
+//Initialize a character variable with an alphabet in a program

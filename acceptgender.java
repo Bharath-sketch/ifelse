@@ -21,3 +21,4 @@ public class acceptgender {
 		}
 		}
 	}
+//Write a program to accept gender ("Male" or "Female") and age and print the percentage of interest based on the given conditions. 

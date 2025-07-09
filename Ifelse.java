@@ -13,3 +13,4 @@ public class Ifelse {
 	 } 
  }
 }
+//Write a program to check if a given integer number is Positive, Negative, or Zero. 

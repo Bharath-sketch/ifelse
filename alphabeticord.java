@@ -11,3 +11,4 @@ public class alphabeticord {
 	}
 	}
 }
+//Initialize two character variables in a program and display the characters in alphabetical order. 
